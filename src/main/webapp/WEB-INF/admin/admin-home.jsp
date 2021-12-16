@@ -271,7 +271,7 @@
 
                 </div>
                 <div class="float-end">
-                    <p>Redesign <span class="text-danger"><i class="bi bi-heart"></i></span> by Tấn & Nam & Trung & Toàn</p>
+                    <p>Redesign <span class="text-danger"><i class="bi bi-heart"></i></span> by Trung & Toàn</p>
                 </div>
             </div>
         </footer>
